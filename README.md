@@ -20,7 +20,15 @@ User → UI (HTML/CSS) → JavaScript Logic → Local Storage → Rendered Task 
 
 ## 📂 Project Structure
 
-project-root/ │── index.html        # Main UI │── style.css         # Styling and layout │── app.js            # Core functionality and logic │── README.md         # Documentation
+project-root/
+
+│── index.html        # Main UI 
+
+│── style.css         # Styling and layout 
+
+│── app.js            # Core functionality and logic 
+
+│── README.md         # Documentation
 
 ---
 
