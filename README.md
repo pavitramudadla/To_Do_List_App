@@ -42,17 +42,17 @@ project-root/ │── index.html        # Main UI │── style.css         
 
 ## ▶️ How to Run (Step-by-Step)
 
-  1. Clone the Repository
+1. Clone the Repository
 
 git clone https://github.com/pavitramudadla/To_Do_List_App.git
 
 
-  2. Navigate to Project Folder
+2. Navigate to Project Folder
      
-  cd To_Do_List_App
+ cd To_Do_List_App
 
 
-  3. Open in Browser
+3. Open in Browser
 
   Simply open index.html in your browser to start using the app.
 
